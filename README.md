@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello!
 
-<!--
-**4npweb/4npweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm 4NP Web, a front end web developer based in Bosnia & Herzegovina.
 
-Here are some ideas to get you started:
+I design and build whatever I can imagine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My skills
+- HTML
+- CSS
+- Javascript
+- React (Learning)
+
+I'm looking forward to new projects!
