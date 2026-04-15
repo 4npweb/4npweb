@@ -9,5 +9,6 @@ I design and build whatever I can imagine.
 - CSS
 - Javascript
 - React (Learning)
+- Git + Github
 
 I'm looking forward to new projects!
