@@ -1,11 +1,17 @@
-<img align="center" width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/4fa8c0f7-f4fa-4e76-9cdc-993baffd2b41" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi!&height=100&section=header"/>
+</p>
 
-# Hi there!
-
-I'm a 4NP, a front end developer specialized in personal portfolios and landing pages and I'm open for work!
+<p align="center">I'm a 4NP, a front end developer specialized in personal portfolios and landing pages and I'm open for work!</p>
 <br>
 
-<a href="https://www.4np.dev">Visit my site</a>
+<table align="center">
+  <tr>
+     <td> 
+        <a href="https://www.4np.dev">Visit my site</a>
+     </td>
+  </tr>
+</table>
 
 <br>
 <br>
