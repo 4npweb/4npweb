@@ -30,8 +30,6 @@
     <td><p align="center">CSS</p><img width="70" height="70" alt="CSS" src="https://github.com/user-attachments/assets/e87ad437-da76-4962-b295-ed3b7b67915b" /></td>
     <td><p align="center">Javascript</p><img width="70" height="70" alt="Javascript" src="https://github.com/user-attachments/assets/a750e627-6cf7-42e8-a72c-933c2f28d8b1" /></td>
     <td><p align="center">React</p><img width="70" height="70" alt="React" src="https://github.com/user-attachments/assets/8d3c6927-d94d-4d1f-9841-d4ff3f9466d1" /></td>
-    <td><p align="center">VS Code</p><img width="70" height="70" alt="VS Code" src="https://github.com/user-attachments/assets/8eba144d-ee7a-4128-99ad-033a311a3fb6" /></td>
-    <td><p align="center">Git</p><img width="70" height="70" alt="Git" src="https://github.com/user-attachments/assets/da3fcb2d-5f43-4867-ac56-7c1a42f8e1ab" /></td>
     <td><p align="center">Figma</p><img width="70" height="70" alt="Figma" src="https://github.com/user-attachments/assets/d290da5b-d147-4244-8869-45e5ba1144e4" /></td>
     <td><p align="center">Vercel</p><img width="70" height="70" alt="Vercel" src="https://github.com/user-attachments/assets/5e9ddc37-9855-46c2-ace9-176bf05a90fc" /></td>
   </tr>
