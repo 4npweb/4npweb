@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi!&height=100&section=header"/>
 </p>
 
-<p align="center">I'm a 4NP, a front end developer specialized in personal portfolios and landing pages and I'm open for work!</p>
+<p align="center">I'm a 4NP, a front end developer!</p>
 <br>
 
 <table align="center">
