@@ -17,7 +17,7 @@
 <br>
 
 ## ℹ️ About me
-- Self taught developer with 2+ years of experience with web development. 
+- Self taught developer with 2+ years of learning with web development. 
 - Great communication skills and ready to make you satisfied with the finished product.
 
 <br>
@@ -40,20 +40,11 @@
 
 ## 📘 My goals for 2026
 <ul>
-  <li>Finish learning React</li>
-  <li>Become a full stack web developer</li>
+  <li>Expand my portfolio</li>
 </ul>
 
 <br>
 <br>
-
-<div align="center">
-  
-![4NP's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=4npweb&show_icons=true&bg_color=c2fdff)
-
-![4NP's GitHub stats](https://github-readme-stats.vercel.app/api?username=4npweb&show_icons=true&bg_color=c2fdff)
-
-</div>
 <br>
 <br>
 
